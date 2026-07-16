@@ -1,21 +1,137 @@
-## 📊 GitHub Stats
+<!-- ========================= HEADER ========================= -->
+
+<h1 align="center">Hi 👋, I'm John Moorosi</h1>
+<h3 align="center">Software Engineer | Java | Spring Boot | React | PostgreSQL | Cloud & DevOps</h3>
 
 <p align="center">
   <a href="https://github.com/jomooro">
-    <img height="180em"
-      src="https://github-readme-stats.vercel.app/api?username=jomooro&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true&bg_color=1c1917&title_color=0891b2&icon_color=0891b2&text_color=ffffff" />
-  </a>
-
-  <a href="https://github.com/jomooro">
-    <img height="180em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=jomooro&layout=compact&langs_count=10&theme=dark&hide_border=true&bg_color=1c1917&title_color=0891b2&text_color=ffffff" />
+    <img src="https://komarev.com/ghpvc/?username=jomooro&label=Profile%20Views&color=0891b2&style=for-the-badge" alt="Profile Views"/>
   </a>
 </p>
 
+---
+
+## 👨‍💻 About Me
+
+- 💻 Software Engineer
+- 📍 Johannesburg, South Africa
+
+---
+
+## 🚀 Tech Stack
+
 <p align="center">
-  <a href="https://github.com/jomooro">
-    <img
-      src="https://streak-stats.demolab.com?user=jomooro&theme=dark&hide_border=true&background=1C1917&ring=0891B2&fire=0891B2&currStreakLabel=0891B2&sideLabels=FFFFFF&dates=FFFFFF"
-      alt="GitHub Streak" />
-  </a>
+
+<img src="https://skillicons.dev/icons?i=java,spring,react,js,html,css,python,cs,dart,nodejs,postgres,mysql,firebase,docker,kubernetes,git,linux,vscode,powershell&perline=10"/>
+
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+
+<img
+height="170"
+src="https://github-readme-stats.vercel.app/api?username=jomooro&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"
+/>
+
+<img
+height="170"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=jomooro&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
+/>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img
+src="https://streak-stats.demolab.com?user=jomooro&theme=github-dark&hide_border=true"
+/>
+
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=jomooro&theme=github-dark&hide_border=true"
+/>
+
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+
+<img
+src="https://github-profile-trophy.vercel.app/?username=jomooro&theme=algolia&no-frame=true&column=4&margin-w=15"
+/>
+
+</p>
+
+---
+
+## 📋 Summary Cards
+
+<p align="center">
+
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jomooro&theme=github_dark"
+/>
+
+</p>
+
+<p align="center">
+
+<img
+width="49%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jomooro&theme=github_dark"
+/>
+
+<img
+width="49%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jomooro&theme=github_dark"
+/>
+
+</p>
+
+<p align="center">
+
+<img
+width="49%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jomooro&theme=github_dark"
+/>
+
+<img
+width="49%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jomooro&theme=github_dark&utcOffset=2"
+/>
+
+</p>
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/john-moorosi-jt124">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://github.com/jomooro">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
 </p>
