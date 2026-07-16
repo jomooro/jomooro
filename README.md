@@ -1,22 +1,6 @@
 <!-- ========================= HEADER ========================= -->
 
 <h1 align="center">Hi 👋, I'm John Moorosi</h1>
-<h3 align="center">Software Engineer | Java | Spring Boot | React | PostgreSQL | Cloud & DevOps</h3>
-
-<p align="center">
-  <a href="https://github.com/jomooro">
-    <img src="https://komarev.com/ghpvc/?username=jomooro&label=Profile%20Views&color=0891b2&style=for-the-badge" alt="Profile Views"/>
-  </a>
-</p>
-
----
-
-## 👨‍💻 About Me
-
-- 💻 Software Engineer
-- 📍 Johannesburg, South Africa
-
----
 
 ## 🚀 Tech Stack
 
